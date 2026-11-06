@@ -1,4 +1,4 @@
-# ACREP — AI-Powered Community Resource Exchange (prototype)
+# ACREP — AI-Powered Community Resource Exchange 
 
 `backend/` Express + MySQL API · `frontend/` React + TypeScript + Vite + Tailwind.
 
